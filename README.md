@@ -14,7 +14,18 @@ This code is for Udacity's Data Science Blog Post Project, under the [Data Scien
 4) How does language affect salary?
 
 ## Files
-The data are stored in a csv file, named 'survey_results_public_years.csv', in the same directory as the notebook. THe file used in the post is for all years, downloaded in Jan 2021.
+The data are stored in a csv file, named 'survey_results_public_years.csv', in the same directory as the notebook. The file used in the post is for all years, downloaded in Jan 2021.
 
 ## Instructions
-The notebook contains all the code for the [blog post](https://natsci-droid.github.io/What-Coding-Language-Should-You-Learn/). It requires python3, sklearn, matpotlib, numpy and pandas.
+The jupyter notebook contains all the code for the [blog post](https://natsci-droid.github.io/What-Coding-Language-Should-You-Learn/). To run, first downlod the data indicated, then run the notebook, ensuring the libraries below are installed.
+
+Libraries required:
+* python3
+* sklearn
+* matpotlib
+* numpy
+* pandas.
+
+##
+Acknowledgements
+Data are provided by Stack Overflow and the project is given by Udacity.
